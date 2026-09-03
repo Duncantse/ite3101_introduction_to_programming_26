@@ -10,7 +10,7 @@ if
 {bool_two = None}
 else
 {
-    
+    bool_two = False
 }
 
 # 1**2 <= -1
