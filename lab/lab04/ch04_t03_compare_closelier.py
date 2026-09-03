@@ -13,10 +13,10 @@ else
 }
 
 # 1**2 <= -1
-bool_three = None
+bool_three = False
 
 # 40 * 4 >= -4
-bool_four = None
+bool_four = False
 
 # 100 != 10**2
-bool_five = None
+bool_five = True
