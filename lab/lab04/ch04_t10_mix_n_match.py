@@ -10,6 +10,6 @@ bool_two = 2 == 2 and 1 == 1
 bool_three = 1 == 1 and 1 == 2
 
 # Make me true!
-bool_four = 1 ==1 or 2 == 2
+bool_four = 1 ==1 or 2 == 33
 # Make me true!
-bool_five = None
+bool_five = 
