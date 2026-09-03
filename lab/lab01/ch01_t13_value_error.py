@@ -3,4 +3,4 @@ float_2 = 40.0
 
 str(product) = float_1 * float_2
 
-big_string = "'The product was' + string_product "
+big_string = "'The product was' + str(product) "
