@@ -12,4 +12,4 @@ bool_three = 1 == 1 and 1 == 2
 # Make me true!
 bool_four = 1 ==1 or 2 == 33
 # Make me true!
-bool_five = 
+bool_five = 101 == 101 
