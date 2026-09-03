@@ -8,11 +8,11 @@ bool_one = False  # We did this one for you!
 if (10 + 17) == 3**16:
     {
         bool_two = True
-    }
+    }  
     else
     {
-         bool_two = False
-    };  
+        bool_two = False
+    }
 
 
 
