@@ -2,3 +2,4 @@
 
 my_string = str("idk say what")
 print(len(my_string))
+print(my_string.upper())
