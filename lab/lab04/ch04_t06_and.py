@@ -1,6 +1,6 @@
-bool_one = 1>2 and 1<2
+bool_one = False
 
-bool_two = None
+bool_two = 
 
 bool_three = None
 
