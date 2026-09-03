@@ -1,2 +1,2 @@
 import datetime
-todays_date = datetime
+todays_date = fdatetime
