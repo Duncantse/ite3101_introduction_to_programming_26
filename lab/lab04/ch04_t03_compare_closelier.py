@@ -7,7 +7,7 @@ bool_one = False  # We did this one for you!
 # Remember that ** can be read as 'to the power of'. 3**16 is about 43 million.
 bool_two = (10 + 17) == 3**16
 if
-{bool_two = None}
+{bool_two = True}
 else
 {
     bool_two = False
