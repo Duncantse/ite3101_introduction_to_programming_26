@@ -1,4 +1,4 @@
 # Write your code below, starting on line 3!
 
 my_string = str("idk say what")
-print("")
+print("my_string")
