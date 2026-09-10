@@ -3,7 +3,7 @@
 # explain it soon!
 
 def spam():
-    """Prints('Eggs!')"""
+    """Prints('Eggs!') to the console."""
 
 
 # Define the spam function above this line.
