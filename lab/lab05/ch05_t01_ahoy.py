@@ -1,3 +1,1 @@
-PigLatin = input("a english word")
-
-print(PigLatin)
+print("Pig Latin")
