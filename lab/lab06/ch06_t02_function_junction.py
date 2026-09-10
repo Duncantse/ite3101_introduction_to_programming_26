@@ -4,4 +4,4 @@
 
 
 # Define the spam function above this line.
-spam(Eggs!)
+spam('Eggs!')
