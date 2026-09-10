@@ -6,3 +6,4 @@ def by_three(number):
    number = number % 3
    return number
  else:
+  return False
