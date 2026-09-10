@@ -1,1 +1,1 @@
-Pig Latin = input()
+Pig Latin = input("a english word")
