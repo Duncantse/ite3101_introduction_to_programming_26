@@ -1,1 +1,2 @@
-def distance_from_zero(anyName)->b:
+def distance_from_zero(anyName)->bool:
+    return
