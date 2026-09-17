@@ -1,2 +1,2 @@
-def answer():
+def answer(42):
     return answer()
