@@ -2,4 +2,4 @@
 
 max() = None
 
-print(maximum)
+print(max())
