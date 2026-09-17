@@ -1,2 +1,2 @@
 answer = 42
-return 
+return answer
