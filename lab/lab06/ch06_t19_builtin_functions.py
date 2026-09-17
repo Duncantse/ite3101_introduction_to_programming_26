@@ -1,4 +1,4 @@
 def distance_from_zero(num):
-    if distance_from_zero(num, (int, float)):
+    if isinstance(num, (int, float)):
         return abs(num)
     return "Nope"
