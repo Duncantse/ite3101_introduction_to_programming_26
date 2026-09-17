@@ -1,2 +1,2 @@
 def distance_from_zero(anyName)->bool:
-    return
+    return type(int)
