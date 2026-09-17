@@ -1,3 +1,2 @@
 def answer():
-    
     return answer()
