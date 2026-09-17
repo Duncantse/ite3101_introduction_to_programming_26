@@ -1,3 +1,3 @@
 # Ask Python to print sqrt(25) on line 3.
-generiimport math
+generic import math
 print(sqrt(25))
