@@ -4,5 +4,5 @@ square_list = []
 # Your code here!
 for start_list in square_list:
     start_list = start_list * 2
-
+square_list.sh
 print(square_list)
