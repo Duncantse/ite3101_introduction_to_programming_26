@@ -1,8 +1,8 @@
 suitcase = []
 suitcase.append("sunglasses")
 
-suitcase.append('billy')
-suitcase.append('billye')
+suitcase.append('bathing suit')
+suitcase.append('T-shirt')
 suitcase.append('billyw')
 
 
