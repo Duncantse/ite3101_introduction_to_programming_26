@@ -1,5 +1,5 @@
 animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
-duck_index = None  # Use index() to find "duck"
+duck_index = animals[2]  # Use index() to find "duck"
 
 # Your code here!
 
