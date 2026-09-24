@@ -21,6 +21,9 @@ def rental_car_cost(days: int) -> int:
         cost -= 20
     return cost
 
+def spending_money(spend:str) -> int:
+    
+
 
 def trip_cost(city: str, days: int,  spend: str) -> int:
     spending_money = 0
