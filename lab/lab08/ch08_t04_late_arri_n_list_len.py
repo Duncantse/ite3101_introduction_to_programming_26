@@ -1,7 +1,7 @@
 suitcase = []
 suitcase.append("sunglasses")
 
-suitcase.append
+suitcase.append()
 
 
 list_length = 1  # Set this to the length of suitcase
