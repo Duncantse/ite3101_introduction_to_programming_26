@@ -15,3 +15,4 @@ inventory['pouch'].sort()
 inventory['burlap bag'] = ['lint' , 'seashell' , 'strange berry']
 
 inventory['backpack'].sort
+inventory['backpack']
