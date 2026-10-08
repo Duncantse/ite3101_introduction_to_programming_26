@@ -10,7 +10,7 @@ zoo_animals = {'Unicorn': 'Cotton Candy House',
 del zoo_animals['Unicorn']
 
 del zoo_animals['sloth']
-del zoo_animals['Unicorn']
+del zoo_animals['Bengal Tiger']
 
 
 print(zoo_animals)
