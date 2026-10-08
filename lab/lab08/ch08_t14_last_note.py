@@ -16,3 +16,4 @@ inventory['burlap bag'] = ['lint' , 'seashell' , 'strange berry']
 
 inventory['backpack'].sort
 inventory['backpack'].remove('dagger')
+inventory['gold']
