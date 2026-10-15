@@ -1,5 +1,5 @@
 f = ['0', '1', '2', 'End']
 
-for f in range(5):
+for f in f:
     if f == 'tomato':
         print(f)  # (It actually is.)
