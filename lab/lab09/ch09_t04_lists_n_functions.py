@@ -1,5 +1,5 @@
 # Write your function below!
 def fizz_count(x):
   count = 0
-  for i in fizz:
+  for count in x:
     
