@@ -1,11 +1,5 @@
 num = 1
 
 while False:  # Fill in the condition
-    pass
-if count < 10:
-    print("Hello, I am an if statement and count is", count)
-
-while count < 10:
-    print("Hello, I am a while and count is", count)
-    count += 1
+    
     
