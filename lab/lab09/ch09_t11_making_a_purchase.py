@@ -18,4 +18,5 @@ prices = {
 def compute_bill(food):
     total = 0
     for item in shopping_list:
-        total = total + stock[food]
+        total = total + stock[item] * prices[item]
+    return total
