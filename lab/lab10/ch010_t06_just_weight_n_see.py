@@ -26,4 +26,4 @@ def average(numbers: List[float]) -> float:
 
 # Add your function below!
 students = [lloyd, alice, tyler]
-def get_average(students)
+def get_average(students):
