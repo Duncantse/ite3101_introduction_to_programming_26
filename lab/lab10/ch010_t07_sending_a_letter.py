@@ -53,4 +53,3 @@ def get_letter_grade(score):
     else:
         return "F"
 
-print()
