@@ -2,7 +2,7 @@ fruits = ['0', '1', '2', 'End']
 
 for f in range(5):
     if f == 'tomato':
-        print('A tomato is not a fruit!')  # (It actually is.)
+        print(fruits)  # (It actually is.)
         # break
     print('A', f)
 else:
