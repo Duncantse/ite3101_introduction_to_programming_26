@@ -6,4 +6,4 @@ elif billy != "girl":
     print(1)
 else:
     print(2)
-    print(End)
+    print("End")
