@@ -12,5 +12,6 @@ stock = {
 }
 
 for i in prices:
+    print()
     print("price: " + str(prices[i]))
     print("stock: " + str(stock[i]))
