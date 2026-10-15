@@ -6,4 +6,4 @@ def fizz_count(x):
             count += 1
 
 
-print(count)
+            print(count)
