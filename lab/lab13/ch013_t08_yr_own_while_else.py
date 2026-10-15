@@ -12,7 +12,7 @@ while guesses_left > 0:
     print("You win!")
     break
     guesses_left -= 1
-else:
+else guesses_left <= 0:
     print("You lose.")
     
         
