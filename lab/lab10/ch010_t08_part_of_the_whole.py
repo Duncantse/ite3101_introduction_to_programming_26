@@ -52,4 +52,5 @@ def get_class_average(class_list):
     result = []
     for student in class_list:
          result.append(get_average(student))
+         return average(result)
        
