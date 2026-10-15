@@ -4,4 +4,4 @@ for fu in f:
     if f == 'tomato':
         print(fu)
     else:
-        print(fu)  # (It actually is.)
+        print(e)  # (It actually is.)
