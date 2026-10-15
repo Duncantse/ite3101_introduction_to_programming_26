@@ -6,4 +6,5 @@ for c in thing:
 word = "eggs!"
 
 # Your code here!
-for i in range
+for i in range:
+    print word
