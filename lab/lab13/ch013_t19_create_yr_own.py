@@ -1,7 +1,7 @@
 f = ['0', '1', '2', 'End']
 
-for fu in f:
+for e in f:
     if f == 'tomato':
-        print(fu)
+        print(e)
     else:
         print(e)  # (It actually is.)
