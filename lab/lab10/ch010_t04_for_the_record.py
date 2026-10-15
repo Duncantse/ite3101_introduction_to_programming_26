@@ -22,4 +22,4 @@ for student in students:
     print(students["name"])
     print(students["homework"])
     print(students["quizzers"])
-    print(students"tests)
+    print(students["tests"])
