@@ -2,5 +2,5 @@ d = {'a': 'apple', 'b': 'berry', 'c': 'cherry'}
 
 for key in d:
 
-    print(key, end='')
+    print(key, d[key])
     pass
