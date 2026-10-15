@@ -7,6 +7,5 @@ for f in fruits:
 
         print('A', f)
 
-        break
     else:
         print('A fine selection of fruits!')
