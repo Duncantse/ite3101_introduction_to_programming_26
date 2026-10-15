@@ -1,6 +1,5 @@
 fruits = ['0', '1', '2', 'End']
 
-print('You have...')
 for f in fruits:
     if f == 'tomato':
         print('A tomato is not a fruit!')  # (It actually is.)
