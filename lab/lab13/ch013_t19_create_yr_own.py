@@ -2,7 +2,7 @@ billy = "boy"
 
 if billy == "boy":
     print(0)
-elif
+elif billy 
     print(1)
 
     
