@@ -9,7 +9,7 @@ guesses_left = 3
 while guesses_left > 0:
     guess = int(input("Your guess: "))
     if guess = guesses_left
-    guesses_left -= 1
+    
 
     print("You win!")
     break
