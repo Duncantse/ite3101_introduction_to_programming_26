@@ -1,8 +1,8 @@
-fruits = ['0', '1', '2', 'End']
+f = ['0', '1', '2', 'End']
 
 for f in range(5):
     if f == 'tomato':
-        print(fruits)  # (It actually is.)
+        print(f)  # (It actually is.)
         # break
     print('A', f)
 else:
