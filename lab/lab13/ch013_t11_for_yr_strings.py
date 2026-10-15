@@ -7,4 +7,4 @@ word = "eggs!"
 
 # Your code here!
 for i in range:
-    print word
+    print(word)
