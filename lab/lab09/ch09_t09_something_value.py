@@ -20,3 +20,4 @@ for key in prices:
 
 for num in prices:
     total = total + stock[key]
+print(total)
