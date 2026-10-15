@@ -6,4 +6,5 @@ webster = {
 }
 
 # Add your code below!
-for word in webster
+for word in webster:
+    print
