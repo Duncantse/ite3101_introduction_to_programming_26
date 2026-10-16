@@ -5,4 +5,4 @@ def total(numbers):
     result = 0
     for i in numbers:
         result += (list(i))
-        return result
+    return result
