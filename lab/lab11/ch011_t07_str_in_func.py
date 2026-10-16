@@ -3,4 +3,4 @@ n = "Hello"
 def string_function(s):
     return 
 
-# print(string_function(n))
+print(string_function(n))
