@@ -4,6 +4,5 @@ for i in range(0, len(n)):
     n[i] = n[i] * 2
 # Don't forget to return your new list!
 def double_list(x):
-    x *= 2
-    return x
+    return x for i in x:
 print(double_list(n))
