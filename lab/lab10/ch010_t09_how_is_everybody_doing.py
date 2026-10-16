@@ -68,5 +68,5 @@ def get_class_average(class_list: List[dict]) -> float:
 students = ["alice", "lloyd", "tyler"]
 
 class_avg = get_class_average([alice, lloyd, tyler])
-print(class_avg)                      分數
+print(class_avg)                      
 print(get_letter_grade(class_avg))
