@@ -3,6 +3,6 @@ n = ["Michael", "Lieberman"]
 def join_strings(words):
     result = ""
     for i in range(len(words)):
-        
+        words.append
 
 # print(join_strings(n))
