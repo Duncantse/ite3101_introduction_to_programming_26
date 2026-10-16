@@ -1,1 +1,1 @@
-board = []
+board = ["O" * 5]
