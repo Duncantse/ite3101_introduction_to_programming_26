@@ -1,3 +1,3 @@
 garbled = "!XeXgXaXsXsXeXmX XtXeXrXcXeXsX XeXhXtX XmXaX XI"
 
-start, end, stride =
+start, end, stride =1
