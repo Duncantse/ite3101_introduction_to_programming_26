@@ -1,3 +1,3 @@
 garbled = "IXXX aXXmX aXXXnXoXXXXXtXhXeXXXXrX sXXXXeXcXXXrXeXt mXXeXsXXXsXaXXXXXXgXeX!XX"
 
-message
+message = list(filter(lambda x: x != "X", garbled))
