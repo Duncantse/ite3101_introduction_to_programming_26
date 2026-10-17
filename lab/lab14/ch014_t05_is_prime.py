@@ -1,2 +1,3 @@
 def is_prime(x):
-    if x / 
+    for n in x:
+        if x % n
