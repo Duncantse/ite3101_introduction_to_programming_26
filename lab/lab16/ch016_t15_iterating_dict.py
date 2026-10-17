@@ -3,7 +3,6 @@ movies = {
     "Monty Python's Life of Brian": "Good",
     "Monty Python's Meaning of Life": "Okay"
 }
-print(movies.keys())
-print(movies.values())
+print(movies.items())
 for key in movies:
     print(key, movies[key])
