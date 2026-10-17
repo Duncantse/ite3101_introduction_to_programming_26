@@ -1,3 +1,4 @@
 garbled = "!XeXgXaXsXsXeXmX XtXeXrXcXeXsX XeXhXtX XmXaX XI"
 
-start, end, stride =1
+message = garbled[::-1]
+print(message)
