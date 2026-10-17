@@ -43,5 +43,5 @@ def grades_std_deviation(variance: float) -> float:
 print(grades)
 print(grades_sum(grades))
 print(grades_average(grades))
-print("Variance of grades:", grades_variance(grades))
+print(grades_variance(grades))
 print("Standard deviation of grades:", grades_std_deviation(grades_variance(grades)))
