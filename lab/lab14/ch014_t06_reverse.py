@@ -1,5 +1,5 @@
 def reverse(text):
     word = ""
     for char in text:
-        word = word + char
+        word = char + word
     return word
