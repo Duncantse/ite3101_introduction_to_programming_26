@@ -5,3 +5,5 @@ def grades_sum(grades):
     for grade in grades:
         total += grade
     return total
+
+print(grades_sum(grades))
