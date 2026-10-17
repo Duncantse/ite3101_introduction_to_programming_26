@@ -4,4 +4,4 @@ movies = {
     "Monty Python's Meaning of Life": "Okay"
 }
 
-print(key, movies[key])
+print(movies.keys())
