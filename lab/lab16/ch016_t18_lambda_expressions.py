@@ -1,5 +1,5 @@
-message = "IXXX aXXmX aXXXnXoXXXXXtXhXeXXXXrX sXXXXeXcXXXrXeXt mXXeXsXXXsXaXXXXXXgXeX!XX"
+garbled = "IXXX aXXmX aXXXnXoXXXXXtXhXeXXXXrX sXXXXeXcXXXrXeXt mXXeXsXXXsXaXXXXXXgXeX!XX"
 
-garbled = list(filter(lambda x: x != "X", garbled))
+message = list(filter(lambda x: x != "X", garbled))
 
-print(garbled)
+print(message)
