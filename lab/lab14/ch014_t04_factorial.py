@@ -3,4 +3,4 @@ def factorial(x):
     while x > 0:
         total = total * x
         x -= 1
-        return total
+    return total
