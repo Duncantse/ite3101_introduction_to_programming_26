@@ -3,4 +3,4 @@ my_dict = {
     "Age": 18,
     "BDFL": True
 }
-print
+print("Name" in my_dict)
