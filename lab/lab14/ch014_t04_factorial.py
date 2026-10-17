@@ -1,5 +1,5 @@
 def factorial(x):
-    total = 0
+    total = 1
     while x >= 1:
         total = total * x
         x -= 1
