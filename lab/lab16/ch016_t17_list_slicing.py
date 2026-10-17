@@ -1,3 +1,4 @@
 garbled = "!XeXgXaXsXsXeXmX XtXeXrXcXeXsX XeXhXtX XmXaX XI"
 
-g
+garbage = garbled[::-1]
+print(garbage[::2])
