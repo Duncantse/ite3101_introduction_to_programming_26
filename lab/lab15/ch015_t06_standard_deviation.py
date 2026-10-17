@@ -35,5 +35,4 @@ def grades_variance(scores: List[float]) -> float:
     for score in scores:
         variance += (average - score) ** 2
     return variance / len(scores)
-def grades_std_deviation(variance: float) -> float:
-    return variance ** 0.5
+def grades_std_deviation(var)
