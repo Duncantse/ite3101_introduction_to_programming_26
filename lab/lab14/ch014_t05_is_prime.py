@@ -3,4 +3,4 @@ def is_prime(x):
         if x % n ==0:
             return False
         else:
-            return true
+            return True
