@@ -1,1 +1,2 @@
-def flip_bit
+def flip_bit(input number, n):
+    
