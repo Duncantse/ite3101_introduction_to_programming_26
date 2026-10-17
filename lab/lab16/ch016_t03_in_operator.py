@@ -5,6 +5,3 @@ my_dict = {
 }
 for key in my_dict:
     print(key, my_dict[key], end=" ")
-
-for letter in "Peter":
-    print(letter, end=" ")
