@@ -1,10 +1,10 @@
 one = 0b1
 two = 0b10
 three = 0b11
-four = 0b110
-five = 0b1110
-six = 0b1111
-seven = 
+four = 0b100
+five = 0b101
+six = 0b111
+seven = 0b1000
 eight = None
 nine = None
 ten = None
