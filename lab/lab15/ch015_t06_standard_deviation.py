@@ -40,4 +40,3 @@ def grades_std_deviation(variance: float) -> float:
 
 variance = grades_variance(grades)
 print("Variance:", variance)
-std_deviation = grades_std_deviation(variance)
