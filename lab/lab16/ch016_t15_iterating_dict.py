@@ -4,5 +4,5 @@ movies = {
     "Monty Python's Meaning of Life": "Okay"
 }
 print(movies.items())
-for key, value in movies.items():
-    print(key, value)
+for key in movies:
+    print(key, movies[key])
