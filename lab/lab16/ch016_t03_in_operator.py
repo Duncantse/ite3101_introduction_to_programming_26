@@ -4,4 +4,4 @@ my_dict = {
     "BDFL": True
 }
 for key in my_dict:
-    print(key, end="" my_dict[key], end=" ")
+    print(key, end= my_dict[key], end=" ")
