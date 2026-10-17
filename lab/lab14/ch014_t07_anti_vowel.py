@@ -5,3 +5,4 @@ def anti_vowel(text):
             word = word
         else:
             word = word + i
+    return word
