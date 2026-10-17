@@ -1,8 +1,8 @@
 one = 0b1
 two = 0b10
 three = 0b11
-four = None
-five = None
+four = 0b111
+five = 0b1111
 six = None
 seven = None
 eight = None
