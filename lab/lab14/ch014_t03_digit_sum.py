@@ -3,4 +3,4 @@ def digit_sum(n):
     for i in n:
         if n >=0:
             total += n % 10
-            
+            n = n/10
