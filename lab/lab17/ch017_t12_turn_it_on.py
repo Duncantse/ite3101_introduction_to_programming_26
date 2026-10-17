@@ -1,3 +1,3 @@
 a = 0b10111011
 
-print
+print(bin(a))
