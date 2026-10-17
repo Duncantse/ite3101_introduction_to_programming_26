@@ -4,6 +4,6 @@ movies = {
     "Monty Python's Meaning of Life": "Okay"
 }
 print(movies.keys())
-print(my_dict.values())
+print(movies.values())
 for key in movies:
     print(key, movies[key])
