@@ -36,4 +36,4 @@ def grades_average(grades_input: List[float]) -> float:
     return average
 
 
-print("Variance:", grades_variance(grades))
+print(grades_variance(grades))
