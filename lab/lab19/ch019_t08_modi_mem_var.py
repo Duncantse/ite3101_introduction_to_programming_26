@@ -10,7 +10,7 @@ class Car(object):
         print("This is a %s %s with %s MPG." %
               (self.color, self.model, str(self.mpg)))
 
-    def drive_car(self)
+    def drive_car(self):
 
 
 my_car = Car("DeLorean", "silver", 88)
