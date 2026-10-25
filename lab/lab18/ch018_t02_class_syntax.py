@@ -1,1 +1,1 @@
-class Animal(pass)
+class Animal(pass):
