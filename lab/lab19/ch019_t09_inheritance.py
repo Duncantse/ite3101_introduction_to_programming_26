@@ -14,4 +14,5 @@ class Car(object):
         self.condition = "used"
 
     class ElectricCar(Car):
-        def __init__(self)
+        def __init__(self):
+            
