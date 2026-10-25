@@ -13,4 +13,5 @@ class Car(object):
     def drive_car(self):
         self.condition = "used"
 
-    
+    class ElectricCar(Car):
+        def __in
