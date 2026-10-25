@@ -7,9 +7,9 @@ class Car(object):
         self.mpg = mpg
 
     def display_car(self):
-        return "This is a "[color] [model]" with "+[mpg]" MPG."
+        prin "This is a "+[color]+" "+[model]+" with "+[mpg]+" MPG."
 
 
 my_car = Car("DeLorean", "silver", 88)
 
-print(my_car.display_car)
+my_car.display_car()
