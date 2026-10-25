@@ -6,3 +6,4 @@ def Point3D(object):
     
     def __repr_(self)
         return "(%d, %d, %d)" % (self.x, self.y, self.z)."
+    
