@@ -22,6 +22,6 @@ class ShoppingCart(object):
         else:
             print(product + " is not in the cart.")
 
-my_cart = ("Billy")
+my_cart = ShoppingCart("Billy")
 
 add_item =
