@@ -6,4 +6,4 @@ with open(file_path_name, "w") as my_file:
         my_file.write("My Data!")
 
 if my_file.closed == true:
-    my_file
+    my_file.close()
