@@ -6,4 +6,4 @@ class Car(object):
 
 my_car = Car()
 
-print()
+print(my_car)
