@@ -14,7 +14,7 @@ class Car(object):
         self.condition = "used"
 
 class ElectricCar(Car):
-    def __init__(self, model : str, color: str , mpg: int):
+    def __init__(self,battery_type : str, model : str, color: str , mpg: int):
         self.battery_type = ""
         self.model = model
         self.color = color
