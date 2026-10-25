@@ -9,7 +9,7 @@ class Triangle(object):
     def check_angles(self):
         return self.angle1 + self.angle2 + self.angle3 == 180
 
-    class Equilateral(Triangle):
+    class Equilateral(self):
         angle = 60
 
         def __int__(self):
