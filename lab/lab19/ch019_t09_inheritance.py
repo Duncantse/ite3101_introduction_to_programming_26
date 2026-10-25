@@ -19,4 +19,4 @@ class Car(object):
             self.model = model
             self.color = color
             self.mpg = mpg
-my_car = ElectricCar
+my_car = Car()
