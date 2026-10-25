@@ -24,4 +24,4 @@ class ShoppingCart(object):
 
 my_cart = ShoppingCart("Billy")
 
-my_cart.add_item 
+my_cart.add_item()
