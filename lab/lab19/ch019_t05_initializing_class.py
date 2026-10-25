@@ -3,8 +3,8 @@ class Car(object):
     def __init__(self, model: str, color: str , mpg: int):
         self.condition = "new"
         self.model = model
-        color = color
-        mpg = mpg
+        self.color = color
+        self.mpg = mpg
 
 
 my_car = Car("DeLorean", "silver", 88)
