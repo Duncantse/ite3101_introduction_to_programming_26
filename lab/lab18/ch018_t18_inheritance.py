@@ -12,7 +12,7 @@ class Triangle(object):
     class Equilateral(Triangle):
         angle = 60
 
-        def
+        def __int__(self):
 
 
 my_triangle = Triangle(90, 30, 60)
