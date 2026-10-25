@@ -9,4 +9,4 @@ my_file = open(file_path_name, "w")
 for item in my_list:
     my_file.write(str(item) + "\n")
 
-f.close()
+my_file.close()
