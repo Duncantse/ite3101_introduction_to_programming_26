@@ -2,7 +2,7 @@ class Car(object):
 
     def __init__(self, model: str, color: str , mpg: int):
         self.condition = "new"
-    def __init__(self, model: str, color: str , mpg: int):
+    def __init__(model: str, color: str , mpg: int):
         model = "DeLorean"
         color = "silver"
         mpg = 88
