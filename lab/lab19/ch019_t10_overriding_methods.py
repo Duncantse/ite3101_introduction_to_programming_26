@@ -23,3 +23,4 @@ class ElectricCar(Car):
 
 
 my_car = ElectricCar("DeLorean", "silver", 88, "molten salt")
+print(my_car.condition)
