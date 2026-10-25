@@ -7,3 +7,4 @@ class Shape(object):
 # Add your Triangle class below!
 
 class Triangle(Shape):
+    self
