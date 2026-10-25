@@ -5,3 +5,5 @@ class Triangle(object):
         self.angle3 = angle3
 
     number_of_sides = 3
+
+    def che
