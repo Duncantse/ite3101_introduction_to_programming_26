@@ -17,5 +17,5 @@ class PartTimeEmployee(Employee):
     def full_time_wage(self, hours: int):
         return super(self.calculate_wage).full_time_wage(PartTimeEmployee)
     class milton(object):
-        
+        print(full_time_wage)
     # Add your code below!
