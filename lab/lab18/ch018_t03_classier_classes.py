@@ -1,2 +1,3 @@
 class Animal(object):
-    pass
+    def _init_(Animal):
+        
