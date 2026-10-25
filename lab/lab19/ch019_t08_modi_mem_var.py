@@ -14,8 +14,8 @@ class Car(object):
         self.condition = "used"
 
 
-print(my_car.condition)
 my_car = Car("DeLorean", "silver", 88)
+print(my_car.condition)
 my_car.drive_car()
 
 print(my_car.condition)
