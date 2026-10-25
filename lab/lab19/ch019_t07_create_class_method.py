@@ -5,6 +5,7 @@ class Car(object):
         self.model = model
         self.color = color
         self.mpg = mpg
+    def
 
 
 my_car = Car("DeLorean", "silver", 88)
