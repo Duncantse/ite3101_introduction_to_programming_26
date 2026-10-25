@@ -6,5 +6,6 @@ class Triangle(object):
 
     number_of_sides = 3
 
-    def check_angles(self, ):
+    def check_angles(self):
+        
 
