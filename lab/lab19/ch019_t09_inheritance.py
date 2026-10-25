@@ -19,4 +19,4 @@ class ElectricCar(Car):
         self.model = model
         self.color = color
         self.mpg = mpg
-my_car = ElectricCar("molten salt", "DeLorean", "silver")
+my_car = ElectricCar("molten salt", "DeLorean",88, "silver")
