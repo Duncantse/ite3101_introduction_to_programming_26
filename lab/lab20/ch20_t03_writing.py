@@ -7,6 +7,6 @@ my_file = open(file_path_name, "w")
 
 # Add your code below!
 for item in my_list:
-    my_file.write(str(item)) + "\n")
+    my_file.write(str(item) + "\n")
 
 f.close()
