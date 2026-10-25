@@ -9,11 +9,12 @@ class Triangle(object):
     def check_angles(self):
         return self.angle1 + self.angle2 + self.angle3 == 180
 
-    class Equilateral(Triangle):
-        angle = 60
 
-        def __int__(self):
-            super().__init__(self.angle, self.angle, self.angle)
+class Equilateral(Triangle):
+    angle = 60
+
+    def __int__(self):
+        super().__init__(self.angle, self.angle, self.angle)
 
 
 my_triangle = Triangle(90, 30, 60)
