@@ -13,4 +13,6 @@ class Animal(object):
 
 
 hippo = Animal("Peter", 10)
+hippo = Animal("Peter", 10)
+hippo = Animal("Peter", 10)
 hippo.description()
