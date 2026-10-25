@@ -5,5 +5,5 @@ file_path_name = os.path.join(os.path.dirname(
 with open(file_path_name, "w") as my_file:
         my_file.write("My Data!")
 
-if f.closed == true:
-    
+if my_file.closed == true:
+    my_file
