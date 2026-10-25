@@ -4,5 +4,5 @@ file_path_name = os.path.join(os.path.dirname(
 
 my_file = open(file_path_name, "r")
 
-print(my_file.readine())
+print(my_file.readline())
 my_file.close()
