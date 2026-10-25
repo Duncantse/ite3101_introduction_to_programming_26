@@ -1,3 +1,7 @@
 def Point3D(object):
     def __init__(self, x : int, y : int , z :int):
-        
+        self.x = x
+        self.y = y
+        self.z = z
+    
+    def __repr_()
