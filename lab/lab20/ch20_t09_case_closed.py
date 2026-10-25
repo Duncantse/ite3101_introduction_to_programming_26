@@ -7,3 +7,5 @@ with open(file_path_name, "w") as my_file:
 
 if my_file.closed == true:
     my_file.close()
+
+print
