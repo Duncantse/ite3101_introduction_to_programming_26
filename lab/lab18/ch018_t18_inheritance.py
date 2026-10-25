@@ -10,6 +10,7 @@ class Triangle(object):
         return self.angle1 + self.angle2 + self.angle3 == 180
 
     class Equilateral(Triangle):
+        angle = 60
         
 
 
