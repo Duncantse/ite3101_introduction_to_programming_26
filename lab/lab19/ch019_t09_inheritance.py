@@ -17,6 +17,6 @@ class Car(object):
         def __init__(self, model : str, color: str , mpg: int):
             self.battery_type = ""
             self.model = model
-                   self.color = color
-                   self.mpg = mpg
+            self.color = color
+            self.mpg = mpg
 
