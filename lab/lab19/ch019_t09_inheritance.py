@@ -15,5 +15,5 @@ class Car(object):
 
     class ElectricCar(Car):
         def __init__(self, model : str, color: str , mpg: int):
-            self
+            self.battery_type 
 
