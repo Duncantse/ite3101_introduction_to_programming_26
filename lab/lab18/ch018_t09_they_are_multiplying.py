@@ -15,6 +15,6 @@ class Animal(object):
 hippo = Animal("Peter", 10)
 sloth = Animal("Peteraa", 101)
 ocelot = Animal("Peteraaa", 102)
-hippo.description()
+print(hippo.description()
 sloth.description()
 ocelot.description()
