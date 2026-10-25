@@ -8,4 +8,4 @@ class Shape(object):
 
 class Triangle(Shape):
     def __init__(self, side1: int , sede2: int, side3: int):
-        
+        self.side1 = side1
