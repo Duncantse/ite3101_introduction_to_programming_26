@@ -18,7 +18,8 @@ class ElectricCar(Car):
     def __init__(self, model: str, color: str, mpg: int, battery_type: str):
         super().__init__(model, color, mpg)
         self.battery_type = battery_type
-    def drive_car(self)
+
+    def drive_car(self):
         self.condition = "like new"
 
 
