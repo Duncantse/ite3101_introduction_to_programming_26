@@ -7,4 +7,4 @@ class Shape(object):
 # Add your Triangle class below!
 
 class Triangle(Shape):
-    s
+    sdef __init__(self)
