@@ -13,7 +13,7 @@ class Triangle(object):
         angle = 60
 
         def __int__(self):
-            supper()__int__ = self.angle
+            super().__init__(self.angle, self.angle, self.angle)
 
 
 my_triangle = Triangle(90, 30, 60)
