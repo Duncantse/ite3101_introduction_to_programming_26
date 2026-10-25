@@ -11,7 +11,8 @@ class Triangle(object):
 
     class Equilateral(Triangle):
         angle = 60
-        
+
+        def
 
 
 my_triangle = Triangle(90, 30, 60)
