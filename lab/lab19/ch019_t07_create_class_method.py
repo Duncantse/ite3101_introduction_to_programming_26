@@ -6,7 +6,7 @@ class Car(object):
         self.color = color
         self.mpg = mpg
     def display_car(self):
-        return "This is a "+ self.color+ self.model +"with"+ [mpg] MPG."
+        return "This is a "+ self.color+ self.model +"with"+ str(self.mpg)+"MPG."
 
 
 
