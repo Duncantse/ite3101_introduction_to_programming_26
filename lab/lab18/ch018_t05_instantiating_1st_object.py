@@ -3,3 +3,4 @@ class Animal(object):
         self.name = name
 
 zebra = Animal("Jeffrey")
+print(zebra)
