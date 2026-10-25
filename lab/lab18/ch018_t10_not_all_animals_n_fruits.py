@@ -22,4 +22,3 @@ class ShoppingCart(object):
         else:
             print(product + " is not in the cart.")
 
-cat = product()
