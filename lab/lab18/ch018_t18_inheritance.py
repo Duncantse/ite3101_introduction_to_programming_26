@@ -13,7 +13,7 @@ class Triangle(object):
 class Equilateral(Triangle):
     angle = 60
 
-    def __int__(self):
+    def __init__(self):
         super().__init__(self.angle, self.angle, self.angle)
 
 
